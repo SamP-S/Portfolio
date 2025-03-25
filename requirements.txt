@@ -1,0 +1,5 @@
+django
+djangorestframework
+django-extra-views
+django-filter
+django-cors-headers
