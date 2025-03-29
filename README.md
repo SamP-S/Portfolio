@@ -56,5 +56,21 @@
         - wireless RC or digital control with tether unit
         - 2 AXIS camera control
 
+## 000 - Example Project
+### Participants
+Sam Pearson-Smith - Project Lead
+Member B - Code Monkey
 
+### Goal
+Make a thing that does the following:
+- requirement A
+- requirement B
 
+### Story
+We began doing x, y, z
+We accidentally blew up X
+Fixed doing this
+
+### Final Result
+We did it yay
+Here is picture
