@@ -55,6 +55,19 @@
         - boyancy control w/ bladders/bags & CO2
         - wireless RC or digital control with tether unit
         - 2 AXIS camera control
+    - MK.5 drone deployment
+        - drone with rov mounting for deployment
+        - mountings to support reattachment (nets/lines)
+    - MK.6 automata
+        - automated drone deployment and retreival
+        - GPS tracking
+        - live positioning correction
+        - reliable
+    - MK.7 mapping
+        - 3D scanning capability
+        - multiple cameras
+        - LIDAR?
+        - scene reconstruction and stitching
 
 ## 000 - Example Project
 ### Participants
