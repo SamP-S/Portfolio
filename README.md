@@ -24,6 +24,7 @@
 
 - Allow for 24 hour comments
 - Add mailto: links
+- Copy solusceramics.com with its page change wipe animation
 
 ## Projects:
 - 3d filament heatbox 2 x Rolls + Air Sealed
@@ -68,6 +69,7 @@
         - multiple cameras
         - LIDAR?
         - scene reconstruction and stitching
+        - GPS Waypointing?
 
 ## 000 - Example Project
 ### Participants
