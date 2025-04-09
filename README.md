@@ -96,6 +96,8 @@ Here is picture
 - drone
 - PAL
 - C.R.A.P.
+- NAS Drive
+- Portfolio website
 - RFL Year 1
 	- Darren
 	- Aang
